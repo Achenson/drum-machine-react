@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+.btn {
+  width: 80px; 
+  height: 80px;
+}
+
+.btn {
+  background-color:#FC600A;
+  color: black;
+  border-block-color:#FC600A;
+  border-color: #FC600A;
+  box-shadow: 1px 1px 1px;
+  
+}
+
+.btn:hover {
+  background-color:#FE9F6D;
+  border-block-color: #FE9F6D;
+  border-color: #FE9F6D;
+  
+}
+
+.btn:active {
+  background-color: #9D3802;
+  
+ 
+}
