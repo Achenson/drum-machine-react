@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/drum-machine-react/static/css/main.1ecdfb9b.chunk.css",
+    "main.js": "/drum-machine-react/static/js/main.f4ce30e2.chunk.js",
+    "main.js.map": "/drum-machine-react/static/js/main.f4ce30e2.chunk.js.map",
+    "runtime~main.js": "/drum-machine-react/static/js/runtime~main.aca7fcdb.js",
+    "runtime~main.js.map": "/drum-machine-react/static/js/runtime~main.aca7fcdb.js.map",
+    "static/js/2.41edc8e3.chunk.js": "/drum-machine-react/static/js/2.41edc8e3.chunk.js",
+    "static/js/2.41edc8e3.chunk.js.map": "/drum-machine-react/static/js/2.41edc8e3.chunk.js.map",
+    "index.html": "/drum-machine-react/index.html",
+    "precache-manifest.e1723dbda2852f470a75bd7251926612.js": "/drum-machine-react/precache-manifest.e1723dbda2852f470a75bd7251926612.js",
+    "service-worker.js": "/drum-machine-react/service-worker.js",
+    "static/css/main.1ecdfb9b.chunk.css.map": "/drum-machine-react/static/css/main.1ecdfb9b.chunk.css.map",
+    "static/media/crowdlaugh.mp3": "/drum-machine-react/static/media/crowdlaugh.b954467b.mp3",
+    "static/media/giggle.mp3": "/drum-machine-react/static/media/giggle.2442114b.mp3",
+    "static/media/groans.mp3": "/drum-machine-react/static/media/groans.8a8ca377.mp3",
+    "static/media/hiccup.mp3": "/drum-machine-react/static/media/hiccup.3b6d35a9.mp3",
+    "static/media/slurp.mp3": "/drum-machine-react/static/media/slurp.66e5effa.mp3",
+    "static/media/smirk1.mp3": "/drum-machine-react/static/media/smirk1.dcf36f8b.mp3",
+    "static/media/smirk2.mp3": "/drum-machine-react/static/media/smirk2.ee8dfb74.mp3",
+    "static/media/sneeze.mp3": "/drum-machine-react/static/media/sneeze.c66cae01.mp3",
+    "static/media/snore.mp3": "/drum-machine-react/static/media/snore.740fdf3a.mp3"
+  }
+}
