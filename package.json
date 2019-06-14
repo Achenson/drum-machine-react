@@ -2,7 +2,7 @@
   "name": "drum-machine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://achenson.github.io/drum-machine-react",
+  "homepage": "https://achenson.github.io/drum-machine-react",
   "dependencies": {
     "git-init": "^1.0.0",
     "react": "^16.8.6",
